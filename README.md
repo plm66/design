@@ -1,9 +1,8 @@
 # design
-une experience jekyll sur novembre :E:\Jekyll\design\_posts
+une experience jekyll sur ::novembre :E:\Jekyll\design\_posts
 
 l'idée inaugurale est un tutorial de TutsPlus:
 Building.Static.Websites.With.Jekyll
 C:\_ P H P\TutsPlus.Building.Static.Websites.With.Jekyll
 
-19/11/2017 23:08 c'est une bonne heure pour travailler...
-et hop, il est déjà 00.09
+19/11/2017 23:08 
